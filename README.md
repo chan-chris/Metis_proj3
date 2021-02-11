@@ -1,4 +1,4 @@
-# _Metis_proj3
+# Metis_proj3
 
 Readme.txt
 
