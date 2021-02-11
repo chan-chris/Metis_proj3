@@ -1,6 +1,0 @@
-Readme
-
-Author: Chris Chan
-date: Feb 11, 2021
-Purpose: This document gives a basic outline of the programs in this repository.
-This is Metis Project 3, classification. The analysis is predicting whether a 
