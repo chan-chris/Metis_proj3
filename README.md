@@ -1,4 +1,4 @@
-# Metis_proj3
+# Predicting The Next Hit Song using Spotify Audio Features
 
 Readme.txt
 
