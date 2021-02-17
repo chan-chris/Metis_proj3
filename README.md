@@ -1,4 +1,4 @@
-# Predicting The Next Hit Song using Spotify Audio Features
+# Predicting The Next Hit Song
 
 Readme.txt
 
