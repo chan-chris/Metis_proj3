@@ -1,13 +1,5 @@
 # Predicting The Next Hit Song
 
-Readme.txt
-
-**Date:**<br>
-02/11/2021
-
-### Project Title:<br>
-Predicting the next hit song using Classification methods
-
 ### Description:<br>
 The purpose of the project is to predict whether a song will make it to the Billboard Hot 100 Charts
 
