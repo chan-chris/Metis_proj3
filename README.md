@@ -5,7 +5,7 @@ Readme.txt
 **Date:**<br>
 02/11/2021
 
-**Project Title:**<br>
+### Project Title:<br>
 Predicting the next hit song using Classification methods
 
 **Description:**<br>
