@@ -26,25 +26,25 @@ There are several programs for different models, however I focused mostly on log
 base model runs (00_base_models). I selected 07_xgb_mod_h100.ipynb as my primary model and program. I output a new analytic file with predictions and predicted probabilities to analyze the hits and misses. The program to analyze my predictions is in 99_investigations.
 
 ### Data Extract:<br>
-. data_extract_bb_features.ipynb: this program uses song id info for billboard 100 songs and extracts features from Spotify's API<br>
-. data_extract_sb_features.ipynb:  this program uses song id info for non billboard 100 songs and extracts features from Spotify's API
+* data_extract_bb_features.ipynb: this program uses song id info for billboard 100 songs and extracts features from Spotify's API<br>
+* data_extract_sb_features.ipynb:  this program uses song id info for non billboard 100 songs and extracts features from Spotify's API
 
 ### Data Housing and Cleaning:<br>
-. 01_create_postgressql.ipynb: Create the postgressql DB to house song data<br>
-. 02_data_clean.ipynb: Simple data frame cleaning
+* 01_create_postgressql.ipynb: Create the postgressql DB to house song data<br>
+* 02_data_clean.ipynb: Simple data frame cleaning
 
 ### EDA:<br>
-. 02b_eda.ipynb: EDA and graph production
+* 02b_eda.ipynb: EDA and graph production
 
 ### Models:<br>
-. 02c_base_models.ipynb: run baseline models for all models prior to further exploration<br>
-. 03_lr_mod_h100.ipynb: logistic regression modeling + tuning<br>
-. 04_dt_mod_h100.ipynb: decision tree modeling<br>
-. 05_rf_mod_h100.ipynb: random forest modeling + tuning<br>
-. 06_knn_mod_h100.ipynb: knn modeling<br>
-. 07_xgb_mod_h100.ipynb: XGb modeling + tuning<br>
-. 08_nb_mod_h100.ipynb: naive bayes modeling<br>
-. 99_investigations.ipynb: final analysis of test data and predictions
+* 02c_base_models.ipynb: run baseline models for all models prior to further exploration<br>
+* 03_lr_mod_h100.ipynb: logistic regression modeling + tuning<br>
+* 04_dt_mod_h100.ipynb: decision tree modeling<br>
+* 05_rf_mod_h100.ipynb: random forest modeling + tuning<br>
+* 06_knn_mod_h100.ipynb: knn modeling<br>
+* 07_xgb_mod_h100.ipynb: XGb modeling + tuning<br>
+* 08_nb_mod_h100.ipynb: naive bayes modeling<br>
+* 99_investigations.ipynb: final analysis of test data and predictions
 
 ### Summary:<br>
 Based on EDA, model scores and evaluation metrics, I narrowed my focus on LR, RF and XGb models. 
