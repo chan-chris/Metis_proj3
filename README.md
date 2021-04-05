@@ -1,6 +1,6 @@
 # Predicting The Next Hit Song
 
-### Description:<br>
+### Motivation:<br>
 The purpose of the project is to predict whether a song will make it to the Billboard Hot 100 Charts
 
 ### Data:<br>
