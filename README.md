@@ -1,3 +1,5 @@
+![Test Image 4](https://github.com/tograh/testrepository/coverart.png)
+
 # Predicting The Next Hit Song
 
 ## Motivation:<br>
