@@ -1,4 +1,4 @@
-![Test Image 4](https://github.com/tograh/testrepository/coverart.png)
+![ImageCvr](https://github.com/chan-chris/Metis_proj3/tree/main/img/coverart.png)
 
 # Predicting The Next Hit Song
 
