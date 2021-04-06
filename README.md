@@ -2,7 +2,7 @@
 ![ImageCvr](img/coverart.png)
 
 ## Motivation:<br>
-Can we predict what the next hit song will be? To put it another way, can we identify "audio features" (from Spotify) of songs that characterize hit songs? <br>
+### Can we predict what the next hit song will be? To put it another way, can we identify "audio features" (from Spotify) of songs that characterize hit songs? <br>
 
 The purpose of the project is to predict whether a song will make it to the Billboard Hot 100 Charts. This can help inform aspiring artists or producers in understanding these "audio feature" characteristics of popular hit songs. 
 
