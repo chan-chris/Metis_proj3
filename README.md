@@ -9,6 +9,7 @@ The purpose of the project is to predict whether a song will make it to the Bill
 ## Data:<br>
 The data I used was publicly avaialble based on a previous research project. A link to the data:
 * http://cs229.stanford.edu/proj2018/report/16.pdf<br>
+<br>
 The data is based on ~14,000 songs with a mix of billboard 100 songs and random songs from the Million Song Dataset:
 * http://millionsongdataset.com/
 
