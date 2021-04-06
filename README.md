@@ -29,11 +29,11 @@ base model runs (00_base_models). I selected 07_xgb_mod_h100.ipynb as my primary
 * data_extract_sb_features.ipynb:  this program uses song id info for non-billboard 100 songs and extracts features from Spotify's API
 
 ## Data Housing and Cleaning:<br>
-* 01_create_postgressql.ipynb: Create the postgressql DB to house song data<br>
-* 02_data_clean.ipynb: Simple data frame cleaning
+* *01_create_postgressql.ipynb:* Create the postgressql DB to house song data<br>
+* *02_data_clean.ipynb:* Simple data frame cleaning
 
 ## EDA:<br>
-* 02b_eda.ipynb: EDA and graph production
+* *02b_eda.ipynb:* EDA and graph production
 
 ## Models:<br>
 * *02c_base_models.ipynb:* Run baseline models for all models prior to further exploration<br>
