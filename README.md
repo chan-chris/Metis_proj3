@@ -1,4 +1,4 @@
-![ImageCvr](https://github.com/chan-chris/Metis_proj3/tree/main/img/coverart.png)
+![ImageCvr](img/coverart.png)
 
 # Predicting The Next Hit Song
 
