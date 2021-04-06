@@ -1,6 +1,5 @@
-![ImageCvr](img/coverart.png)
-
 # Predicting The Next Hit Song Using Spotify Audio Features
+![ImageCvr](img/coverart.png)
 
 ## Motivation:<br>
 Can we predict what the next hit song will be? To put it another way, can we identify "audio features" (from Spotify) of songs that characterize hit songs? <br>
