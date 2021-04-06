@@ -4,6 +4,7 @@
 
 ## Motivation:<br>
 Can we predict what the next hit song will be? To put it another way, can we identify "audio features" (from Spotify) of songs that characterize hit songs? <br>
+
 The purpose of the project is to predict whether a song will make it to the Billboard Hot 100 Charts. This can help inform aspiring artists or producers in understanding these "audio feature" characteristics of popular hit songs. 
 
 ## Data:<br>
@@ -35,14 +36,14 @@ base model runs (00_base_models). I selected 07_xgb_mod_h100.ipynb as my primary
 * 02b_eda.ipynb: EDA and graph production
 
 ## Models:<br>
-* 02c_base_models.ipynb: Run baseline models for all models prior to further exploration<br>
-* 03_lr_mod_h100.ipynb: Logistic regression modeling + tuning<br>
-* 04_dt_mod_h100.ipynb: Decision tree modeling<br>
-* 05_rf_mod_h100.ipynb: Random forest modeling + tuning<br>
-* 06_knn_mod_h100.ipynb: KNN modeling<br>
-* 07_xgb_mod_h100.ipynb: XGB modeling + tuning<br>
-* 08_nb_mod_h100.ipynb: Naive bayes modeling<br>
-* 99_investigations.ipynb: Final analysis of test data and predictions
+* *02c_base_models.ipynb:* Run baseline models for all models prior to further exploration<br>
+* *03_lr_mod_h100.ipynb:* Logistic regression modeling + tuning<br>
+* *04_dt_mod_h100.ipynb:* Decision tree modeling<br>
+* *05_rf_mod_h100.ipynb:* Random forest modeling + tuning<br>
+* *06_knn_mod_h100.ipynb:* KNN modeling<br>
+* *07_xgb_mod_h100.ipynb:* XGB modeling + tuning<br>
+* *08_nb_mod_h100.ipynb:* Naive bayes modeling<br>
+* *99_investigations.ipynb:* Final analysis of test data and predictions
 
 ## Summary:<br>
 Based on EDA, model scores and evaluation metrics, I narrowed my focus on LR, RF and XGB models. 
