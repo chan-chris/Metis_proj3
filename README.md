@@ -5,7 +5,7 @@ The purpose of the project is to predict whether a song will make it to the Bill
 
 ### Data:<br>
 The data I used was publicly avaialble based on a previous research project. A link to the data: http://cs229.stanford.edu/proj2018/report/16.pdf<br>
-The data is based on ~14000 songs with a mix of billboard 100 songs and random songs from the Million Song Dataset: http://millionsongdataset.com/
+The data is based on ~14,000 songs with a mix of billboard 100 songs and random songs from the Million Song Dataset: http://millionsongdataset.com/
 
 I supplemented the data using Spotify's API with other Artist/Song attributes that were not originally provided - genre, track popularity, time signature, release year. I uploaded the data to a postgressql server and retreived for analysis.
 
